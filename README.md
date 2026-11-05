@@ -1,20 +1,5 @@
 
-# Student Management System
+# Student-Management-System-
 
-This is my first Java project.
+A basic student management system using Java 
 
-## Features
-- Add Student
-- View Students
-- Search Student
-- Update Student
-- Delete Student
-
-## Technology Used
-- Java
-- OOP Concepts
-- ArrayList
-- Scanner
-
-## Developer
-BCA Student
