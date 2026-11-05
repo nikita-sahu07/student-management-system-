@@ -1,2 +1,2 @@
-# student-management-system-
-A basic student management system using Java
+# calculator.java 
+A basic calculator using Java
